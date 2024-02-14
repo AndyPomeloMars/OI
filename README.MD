@@ -46,7 +46,7 @@ Python download url: [https://www.python.org](https://www.python.org)
 
 - git clone:
 
-    `git clone https://github.com/luogu-dev/cyaron.git`
+    `git clone https://github.com/AndyPomeloMars/OI.git`
 
 **At present, please understand and operate on your own. The official documents will be released in the future (estimated time from July to August 2024)**
 
